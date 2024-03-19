@@ -1,0 +1,6 @@
+host = "localhost"
+user ="u"
+password ="p"
+db_name ="n"
+
+BOT_TOKEN_VK="vk1.a.RXdjsD3_7g6OI8fBHhQyQzvkKtqlxafI3L0_HKJJhSZI2G8YJmkbrtjPuQJGaIJ5RAo2qz0uEoUosWWnf2sti3T8Srv77Sv5ucqeVcegeHkHzWWycvvnS74P4l70fq3a16FLSSxwJqgRkzzrlq72rnA6XcrAz7OSc1GSwP9w-ZCuA0b5x0WEsQjJ8k5EpAf7BEQ4fF8mXFuhpgWUnUZNMw"
